@@ -11,7 +11,7 @@
 ## Установка приложения
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/название-репозитория.git
+git clone https://github.com/shempton/BarkBase.git
 ```
 2. Запустите веб-сервер:
 ```bash
